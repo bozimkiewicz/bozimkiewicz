@@ -25,5 +25,5 @@ Computer Science student at Univeristy of Gdańsk (PL).
 
 ## 📫 How to reach me
 
-- [E-mail](bartek.ozim@wp.pl)
+- E-mail: bartek.ozim@wp.pl
 - [Facebook](https://www.facebook.com/bozimkiewicz)
