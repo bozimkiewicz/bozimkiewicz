@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello there 👋 I'm Bartek
 
-<!--
-**bozimkiewicz/bozimkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Univeristy of Gdańsk (PL).
 
-Here are some ideas to get you started:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- JavaScript / TypeScript + React
+- HTML, CSS, SCSS (+ TailwindCSS)
+- Node.js + Express
+- Python + Flask
+- Neo4J
+- MongoDB
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🌱 Currently learning
+
+- GO
+- Java / Spring
+- Angular / Vue
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📫 How to reach me
+
+- [E-mail](bartek.ozim@wp.pl)
+- [Facebook](https://www.facebook.com/bozimkiewicz)
