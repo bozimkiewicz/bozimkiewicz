@@ -7,19 +7,17 @@ Computer Science student at Univeristy of Gdańsk (PL).
 ## 🛠 Skills
 
 - JavaScript / TypeScript + React
-- HTML, CSS, SCSS (+ TailwindCSS)
 - Node.js + Express
-- Python + Flask
+- HTML, CSS, SCSS (+ TailwindCSS)
 - Neo4J
-- MongoDB
+- Python
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌱 Currently learning
 
-- GO
 - Java / Spring
-- Angular / Vue
+- Angular
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
